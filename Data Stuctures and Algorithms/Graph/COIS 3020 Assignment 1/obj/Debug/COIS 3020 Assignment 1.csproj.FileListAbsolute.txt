@@ -1,0 +1,14 @@
+C:\Users\notac\source\repos\COIS 3020 Assignment 1\COIS 3020 Assignment 1\bin\Debug\COIS 3020 Assignment 1.exe.config
+C:\Users\notac\source\repos\COIS 3020 Assignment 1\COIS 3020 Assignment 1\bin\Debug\COIS 3020 Assignment 1.exe
+C:\Users\notac\source\repos\COIS 3020 Assignment 1\COIS 3020 Assignment 1\bin\Debug\COIS 3020 Assignment 1.pdb
+C:\Users\notac\source\repos\COIS 3020 Assignment 1\COIS 3020 Assignment 1\obj\Debug\COIS 3020 Assignment 1.csprojAssemblyReference.cache
+C:\Users\notac\source\repos\COIS 3020 Assignment 1\COIS 3020 Assignment 1\obj\Debug\COIS 3020 Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\notac\source\repos\COIS 3020 Assignment 1\COIS 3020 Assignment 1\obj\Debug\COIS 3020 Assignment 1.exe
+C:\Users\notac\source\repos\COIS 3020 Assignment 1\COIS 3020 Assignment 1\obj\Debug\COIS 3020 Assignment 1.pdb
+C:\Users\notac\OneDrive\COIS 3020\COIS 3020 Assignment 1\COIS 3020 Assignment 1\bin\Debug\COIS 3020 Assignment 1.exe.config
+C:\Users\notac\OneDrive\COIS 3020\COIS 3020 Assignment 1\COIS 3020 Assignment 1\bin\Debug\COIS 3020 Assignment 1.exe
+C:\Users\notac\OneDrive\COIS 3020\COIS 3020 Assignment 1\COIS 3020 Assignment 1\bin\Debug\COIS 3020 Assignment 1.pdb
+C:\Users\notac\OneDrive\COIS 3020\COIS 3020 Assignment 1\COIS 3020 Assignment 1\obj\Debug\COIS 3020 Assignment 1.csprojAssemblyReference.cache
+C:\Users\notac\OneDrive\COIS 3020\COIS 3020 Assignment 1\COIS 3020 Assignment 1\obj\Debug\COIS 3020 Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\notac\OneDrive\COIS 3020\COIS 3020 Assignment 1\COIS 3020 Assignment 1\obj\Debug\COIS 3020 Assignment 1.exe
+C:\Users\notac\OneDrive\COIS 3020\COIS 3020 Assignment 1\COIS 3020 Assignment 1\obj\Debug\COIS 3020 Assignment 1.pdb

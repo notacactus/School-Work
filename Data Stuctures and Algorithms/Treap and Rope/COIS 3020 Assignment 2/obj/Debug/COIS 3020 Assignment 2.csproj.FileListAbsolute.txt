@@ -1,0 +1,7 @@
+C:\Users\notac\source\repos\COIS 3020 Assignment 2\COIS 3020 Assignment 2\obj\Debug\COIS 3020 Assignment 2.csprojAssemblyReference.cache
+C:\Users\notac\source\repos\COIS 3020 Assignment 2\COIS 3020 Assignment 2\obj\Debug\COIS 3020 Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\notac\source\repos\COIS 3020 Assignment 2\COIS 3020 Assignment 2\bin\Debug\COIS 3020 Assignment 2.exe.config
+C:\Users\notac\source\repos\COIS 3020 Assignment 2\COIS 3020 Assignment 2\bin\Debug\COIS 3020 Assignment 2.exe
+C:\Users\notac\source\repos\COIS 3020 Assignment 2\COIS 3020 Assignment 2\bin\Debug\COIS 3020 Assignment 2.pdb
+C:\Users\notac\source\repos\COIS 3020 Assignment 2\COIS 3020 Assignment 2\obj\Debug\COIS 3020 Assignment 2.exe
+C:\Users\notac\source\repos\COIS 3020 Assignment 2\COIS 3020 Assignment 2\obj\Debug\COIS 3020 Assignment 2.pdb

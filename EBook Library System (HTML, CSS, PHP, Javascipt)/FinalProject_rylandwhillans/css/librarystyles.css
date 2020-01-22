@@ -1,0 +1,68 @@
+/*
+COIS 3420 Project stylesheet for Library Page
+Author: Ryland Whillans
+
+Styles to create structure of library page and to style the books displayed
+*/
+/*
+  main layout/alignment of books
+ */
+div.library {
+  width: 95%;
+  padding: 0.5em 1em;
+  background-color: #444;
+  border: 0.2em solid #333;
+  border-radius: 0.5em;
+  align-items: flex-start;
+  justify-content: space-around;
+}
+
+/* 
+  Book thumbnails
+*/
+/* stucture of thumbnail */
+.thumbnail a {
+  width: 15em;
+  height: 25em;
+  padding: 1em;
+  margin: 0.5em 0em;
+  border-radius: 0.5em;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  justify-content: space-between;
+}
+
+/* align title */
+.thumbnail span {
+  margin: auto;
+}
+
+/* cover page */
+.thumbnail img {
+  width: 100%;
+  max-height: 22em;
+}
+
+/*
+  Search bar/filters
+ */
+#search {
+  justify-content: center;
+}
+
+/* groups of filters */
+.filter div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 0.1em;
+  width: auto;
+}
+
+.filter h1 {
+  font-weight: bold;
+  margin-right: 0.5em;
+}

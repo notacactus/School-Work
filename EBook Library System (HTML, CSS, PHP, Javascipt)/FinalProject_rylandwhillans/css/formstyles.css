@@ -1,0 +1,154 @@
+/*
+COIS 3420 Project stylesheet for Forms/Similar elements
+Author: Ryland Whillans
+
+Styles for formatting forms and similar elements
+used on most pages but not in library
+*/
+/*
+  Basic structure
+ */
+form {
+  flex-direction: column;
+  width: 75%;
+  align-items: center;
+}
+
+form>div, body>div {
+  width: 90%;
+  min-height: 3em;
+  padding: 1em 0em;
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  border-bottom: 0.2em solid #333;
+}
+
+body>div {
+  width: 67.5%;
+}
+
+/*
+  Element alignment
+ */
+/* row label/headings */
+form h1, form label, #book>div>h1 {
+  margin-left: 15%;
+  width: 20%;
+  margin-top: 0.6em;
+  font-size: 1em;
+  font-weight: bold;
+}
+
+div>h1, label {}
+
+/* row fields */
+form>div>:nth-child(2) {
+  width: 50%;
+  margin-left: 0em;
+  margin-right: 0em;
+}
+
+form input[type=email], form input[type=password], input[type=file] {
+  margin-bottom: 0.5em;
+}
+
+/*
+  span/message alignment and styles
+ */
+form span, input[type=file] {
+  font-style: italic;
+  display: inline-block;
+  width: 100%;
+  margin-top: 0.5em;
+  margin-left: 35%;
+  color: #AAA;
+}
+
+.file {
+  color: rgb(149, 149, 236);
+  font-style: italic;
+  display: inline-block;
+  width: 35%;
+  margin-top: 0em;
+  margin-left: 0em;
+}
+
+.file:first-of-type, form input[type=file] {
+  margin-top: 0.6em;
+}
+
+
+/* cover page */
+img {
+  width: 20em;
+  margin: auto;
+  margin-bottom: 1em;
+}
+
+/* buttons */
+form>input[type=submit] {
+  margin: 0.5em;
+  min-width: 10em;
+}
+
+/*
+  login page
+ */
+#login>div {
+  min-height: 0em;
+}
+
+/* align buttons */
+#login>div:last-of-type, #book>div:last-of-type {
+  justify-content: center;
+}
+
+#login>div:nth-last-of-type(2) {
+  justify-content: center;
+  align-items: center;
+  min-height: auto;
+  padding: 0em;
+}
+
+#login>div:last-of-type input[type=submit], #book>div:last-of-type a {
+  padding: 0.5em;
+  margin: 0.1em;
+  width: 7em;
+}
+
+/* span and label */
+#login span, form>h1:first-child {
+  width: auto;
+  margin: auto;
+}
+
+#login>div:last-of-type span, #login>div:nth-last-of-type(2) label {
+  width: auto;
+  margin: 1em;
+}
+
+/*
+  book page
+ */
+#book>div>h1 {
+  margin-top: 0em;
+}
+
+/* lists */
+#book>div li {
+  width: 15em;
+  height: 3em;
+  display: flex;
+  align-items: center;
+}
+
+/* links */
+#book>div li>* {
+  width: 100%;
+  margin: auto;
+}
+
+#book>div>span, #book>div>ul {
+  width: 50%;
+}

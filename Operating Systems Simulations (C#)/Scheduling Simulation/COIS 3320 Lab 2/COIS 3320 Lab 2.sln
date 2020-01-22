@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COIS 3320 Lab 2", "COIS 3320 Lab 2\COIS 3320 Lab 2.csproj", "{2E307C32-AB3B-4890-90F7-0DB090D142D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E307C32-AB3B-4890-90F7-0DB090D142D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E307C32-AB3B-4890-90F7-0DB090D142D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E307C32-AB3B-4890-90F7-0DB090D142D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E307C32-AB3B-4890-90F7-0DB090D142D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12D44457-12D0-4317-9F57-8A4E2562F6E1}
+	EndGlobalSection
+EndGlobal

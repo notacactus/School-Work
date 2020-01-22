@@ -1,0 +1,14 @@
+C:\Users\notac\source\repos\COIS 3320 Lab 2\COIS 3320 Lab 2\bin\Debug\COIS 3320 Lab 2.exe.config
+C:\Users\notac\source\repos\COIS 3320 Lab 2\COIS 3320 Lab 2\bin\Debug\COIS 3320 Lab 2.exe
+C:\Users\notac\source\repos\COIS 3320 Lab 2\COIS 3320 Lab 2\bin\Debug\COIS 3320 Lab 2.pdb
+C:\Users\notac\source\repos\COIS 3320 Lab 2\COIS 3320 Lab 2\obj\Debug\COIS 3320 Lab 2.csprojAssemblyReference.cache
+C:\Users\notac\source\repos\COIS 3320 Lab 2\COIS 3320 Lab 2\obj\Debug\COIS 3320 Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\notac\source\repos\COIS 3320 Lab 2\COIS 3320 Lab 2\obj\Debug\COIS 3320 Lab 2.exe
+C:\Users\notac\source\repos\COIS 3320 Lab 2\COIS 3320 Lab 2\obj\Debug\COIS 3320 Lab 2.pdb
+C:\Users\notac\OneDrive\COIS 3320\Lab 2\COIS 3320 Lab 2\COIS 3320 Lab 2\bin\Debug\COIS 3320 Lab 2.exe.config
+C:\Users\notac\OneDrive\COIS 3320\Lab 2\COIS 3320 Lab 2\COIS 3320 Lab 2\bin\Debug\COIS 3320 Lab 2.exe
+C:\Users\notac\OneDrive\COIS 3320\Lab 2\COIS 3320 Lab 2\COIS 3320 Lab 2\bin\Debug\COIS 3320 Lab 2.pdb
+C:\Users\notac\OneDrive\COIS 3320\Lab 2\COIS 3320 Lab 2\COIS 3320 Lab 2\obj\Debug\COIS 3320 Lab 2.csprojAssemblyReference.cache
+C:\Users\notac\OneDrive\COIS 3320\Lab 2\COIS 3320 Lab 2\COIS 3320 Lab 2\obj\Debug\COIS 3320 Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\notac\OneDrive\COIS 3320\Lab 2\COIS 3320 Lab 2\COIS 3320 Lab 2\obj\Debug\COIS 3320 Lab 2.exe
+C:\Users\notac\OneDrive\COIS 3320\Lab 2\COIS 3320 Lab 2\COIS 3320 Lab 2\obj\Debug\COIS 3320 Lab 2.pdb

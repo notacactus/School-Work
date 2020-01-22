@@ -1,0 +1,14 @@
+C:\Users\notac\source\repos\COIS 2020 Assignment 5\COIS 2020 Assignment 5\bin\Debug\COIS 2020 Assignment 5.exe.config
+C:\Users\notac\source\repos\COIS 2020 Assignment 5\COIS 2020 Assignment 5\bin\Debug\COIS 2020 Assignment 5.exe
+C:\Users\notac\source\repos\COIS 2020 Assignment 5\COIS 2020 Assignment 5\bin\Debug\COIS 2020 Assignment 5.pdb
+C:\Users\notac\source\repos\COIS 2020 Assignment 5\COIS 2020 Assignment 5\obj\Debug\COIS 2020 Assignment 5.csprojAssemblyReference.cache
+C:\Users\notac\source\repos\COIS 2020 Assignment 5\COIS 2020 Assignment 5\obj\Debug\COIS 2020 Assignment 5.csproj.CoreCompileInputs.cache
+C:\Users\notac\source\repos\COIS 2020 Assignment 5\COIS 2020 Assignment 5\obj\Debug\COIS 2020 Assignment 5.exe
+C:\Users\notac\source\repos\COIS 2020 Assignment 5\COIS 2020 Assignment 5\obj\Debug\COIS 2020 Assignment 5.pdb
+C:\Users\notac\OneDrive\COIS 2020\Assignment 5\COIS 2020 Assignment 5\COIS 2020 Assignment 5\bin\Debug\COIS 2020 Assignment 5.exe.config
+C:\Users\notac\OneDrive\COIS 2020\Assignment 5\COIS 2020 Assignment 5\COIS 2020 Assignment 5\bin\Debug\COIS 2020 Assignment 5.exe
+C:\Users\notac\OneDrive\COIS 2020\Assignment 5\COIS 2020 Assignment 5\COIS 2020 Assignment 5\bin\Debug\COIS 2020 Assignment 5.pdb
+C:\Users\notac\OneDrive\COIS 2020\Assignment 5\COIS 2020 Assignment 5\COIS 2020 Assignment 5\obj\Debug\COIS 2020 Assignment 5.csprojAssemblyReference.cache
+C:\Users\notac\OneDrive\COIS 2020\Assignment 5\COIS 2020 Assignment 5\COIS 2020 Assignment 5\obj\Debug\COIS 2020 Assignment 5.csproj.CoreCompileInputs.cache
+C:\Users\notac\OneDrive\COIS 2020\Assignment 5\COIS 2020 Assignment 5\COIS 2020 Assignment 5\obj\Debug\COIS 2020 Assignment 5.exe
+C:\Users\notac\OneDrive\COIS 2020\Assignment 5\COIS 2020 Assignment 5\COIS 2020 Assignment 5\obj\Debug\COIS 2020 Assignment 5.pdb
